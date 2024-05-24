@@ -1,3 +1,6 @@
+# Our files that are either too big or not needed in the repo
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
