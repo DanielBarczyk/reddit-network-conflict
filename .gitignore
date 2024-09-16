@@ -1,5 +1,6 @@
 # Our files that are either too big or not needed in the repo
 data/
+reddit/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
